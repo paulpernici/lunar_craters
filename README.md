@@ -8,4 +8,5 @@ The following databases are covered by this code.
 An improved database of craters that uses a CNN to uncover new craters. Pegged to Robbins 2018.
 
 Link to Database: https://zenodo.org/records/4983248
+
 Link to Paper: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JE006728
